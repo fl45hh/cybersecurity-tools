@@ -41,3 +41,7 @@ Enter your username and password to authenticate.
 **Successful Connection:**
 
 Upon successful authentication, the connection will be established.
+
+**Reference:**
+
+For further information and potential troubleshooting, see this issue on the OpenConnect GitLab repository: [https://gitlab.com/openconnect/openconnect/-/issues/491](https://gitlab.com/openconnect/openconnect/-/issues/491)
